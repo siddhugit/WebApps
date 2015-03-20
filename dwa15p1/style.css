@@ -1,0 +1,30 @@
+.main {
+			width: 50%;
+			margin: 0 auto;
+			margin-top: 25px;
+			margin-bottom: 50px;
+			text-align: left;
+		}
+		
+		.main h1 {
+			font-family: Arial, Helvetica, sans-serif;
+			text-align: center;
+			color: #4682B4;
+		}
+		
+		.main h2 {
+			font-family: Verdana, Geneva, sans-serif;
+			color: #778899;
+		}
+		
+		.main p {
+			font-family: Verdana, Geneva, sans-serif;
+			color: #708090;
+		}
+		
+		img {
+			display:block;
+			margin:auto;
+			width:50%;
+			height:50%;
+		}

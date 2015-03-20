@@ -1,0 +1,46 @@
+.main 
+{
+	text-align:center;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #708090;
+	font-size:90%
+}
+
+.main h1 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #4682B4;
+}
+#submitBtn 
+{
+	background: #0066A2;
+	color: white;
+	border-style: outset;
+	border-color: #0066A2;
+	height: 25px;
+	width: 150px;
+	font: bold 15px arial, sans-serif; 
+}
+.password 
+{
+	text-align:center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size:250%;
+	#font-size:3rem;
+	margin-bottom:25px;
+	color:#f39c12;
+	background-color:#eee;
+	display:inline-block;
+	padding:15px;
+	font-weight:500;
+}		
+.details 
+{
+	margin-top:25px;
+}
+.comic 
+{
+	width:75%;
+	max-width:500px;
+}

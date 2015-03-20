@@ -1,0 +1,28 @@
+.container 
+{
+	text-align:center;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #708090;
+	font-size:90%
+}
+
+.container a
+{
+	text-decoration:underline;
+	color: #3CB371;
+}
+.container h1 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	color: #4682B4;
+}
+
+.paragraphs-output p 
+{
+	font-family: Verdana, Geneva, sans-serif;
+	text-align: left;
+	font-size: 12px;
+	color: #737373;
+}
+
